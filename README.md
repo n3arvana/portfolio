@@ -40,9 +40,6 @@ O site é dividido em três seções principais, cada uma representada por um wi
 - [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css): Biblioteca de ícones usada no site.
 - [Google Fonts - Open Sans](https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap): Fonte principal utilizada no site.
 
-## Contribuição
-
-Se você quiser contribuir com melhorias para este template, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
 ## Licença
 
