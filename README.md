@@ -44,15 +44,3 @@ O site é dividido em três seções principais, cada uma representada por um wi
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-## Me Marque!
-
-Este template é livre para uso, mas adoraria ver como você o utiliza! Se você usar este template, por favor, me marque ou poste nas redes sociais e me marque:
-
-- [Instagram](https://www.instagram.com/riicardomoura/)
-- [TikTok](https://www.tiktok.com/@riicardomoura)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
-
----
-
-Feito com ❤️ por RICARDO MOURA DEV
