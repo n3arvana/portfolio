@@ -40,22 +40,7 @@ O site é dividido em três seções principais, cada uma representada por um wi
 - [FontAwesome](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css): Biblioteca de ícones usada no site.
 - [Google Fonts - Open Sans](https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap): Fonte principal utilizada no site.
 
-## Contribuição
-
-Se você quiser contribuir com melhorias para este template, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
-## Me Marque!
-
-Este template é livre para uso, mas adoraria ver como você o utiliza! Se você usar este template, por favor, me marque ou poste nas redes sociais e me marque:
-
-- [Instagram](https://www.instagram.com/riicardomoura/)
-- [TikTok](https://www.tiktok.com/@riicardomoura)
-- [LinkedIn](https://www.linkedin.com/in/ricardomouradev/)
-
----
-
-Feito com ❤️ por RICARDO MOURA DEV
